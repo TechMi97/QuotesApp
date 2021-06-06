@@ -1,0 +1,117 @@
+.header {
+    margin: auto;
+    padding: 2px;
+    width: 90%;
+    margin-top: 30px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: 'Signika', sans-serif;
+    padding-bottom: 10px;
+}
+
+body {
+    background-color: #0cbaba;
+    background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+}
+
+.addQuote {
+    width: 28%;
+    height: 100%;
+    padding-top: 28px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-left: 50px;
+    margin: left;
+    display: inline-block;
+    text-align: center;
+    border-radius: 15px;
+    font-family: 'Signika', sans-serif;
+    color: black;
+    background-color: #eec0c6;
+    background-image: linear-gradient(315deg, #9e8fb2 0%, #a7acd9 74%);
+    font-size: 15px;
+}
+
+.editQuote {
+    width: 30%;
+    height: 100%;
+    background-color: cornsilk;
+    padding-top: 28px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin: left;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    border-radius: 15px;
+    color: black;
+    background-image: linear-gradient(315deg, #9e8fb2 0%, #a7acd9 74%);
+    display: inline-block;
+    font-size: 15px;
+}
+
+.deleteQuote {
+    width: 30%;
+    background-color: cornsilk;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-top: 30px;
+    margin: left;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    border-radius: 15px;
+    color: black;
+    background-color: #9e8fb2;
+    background-image: linear-gradient(315deg, #9e8fb2 0%, #a7acd9 74%);
+    font-size: 15px;
+}
+
+.getQuote {
+    width: 90%;
+    height: 200px;
+    background-color: cornsilk;
+    margin-left: 50px;
+    padding-left: 30px;
+    margin-top: 30px;
+    font-family: Georgia, serif;
+    border-radius: 15px;
+    color: black;
+    background-image: linear-gradient(315deg, #9e8fb2 0%, #a7acd9 74%);
+    text-align: left;
+}
+
+#btn {
+    bottom: 20px;
+    margin-top: 30px;
+    right: 20px;
+    border-radius: 10px;
+    text-align: justify;
+    background-color: burlywood;
+}
+
+#update-button {
+    bottom: 20px;
+    margin-top: 30px;
+    right: 20px;
+    border-radius: 10px;
+    text-align: justify;
+    background-color: burlywood;
+}
+
+#delete-button {
+    bottom: 20px;
+    margin-top: 30px;
+    right: 20px;
+    border-radius: 10px;
+    text-align: justify;
+    background-color: burlywood;
+}
+
+input {
+    border-radius: 10px;
+}
